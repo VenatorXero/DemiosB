@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <!-- This addon builds its UI from Lua. XML kept for compatibility and future expansion. -->
+</Ui>

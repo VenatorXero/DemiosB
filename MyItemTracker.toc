@@ -1,0 +1,8 @@
+## Interface: 120000
+## Title: MyItemTracker
+## Notes: Tracks progress towards obtaining specific items (Retail)
+## Author:
+## Version: 0.2
+## SavedVariables: MyItemTrackerDB
+MyItemTracker.lua
+MyItemTracker.xml
